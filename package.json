@@ -1,0 +1,11 @@
+{
+	"name": "sponza.palace",
+	"version": "1.0.0",
+	"displayName":"Sponza Palace",
+	"description": 
+    "The Sponza Palace Atrium scene is widely used by graphics programmers and artists. It provides with an ideal lighting test environment, as it features both indoor and outdoor areas.",
+	"unity": "2020.3",
+	"dependencies": {
+		"com.unity.render-pipelines.universal": "10.10.0"
+	}
+}
